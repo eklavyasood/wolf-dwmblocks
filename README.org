@@ -1,0 +1,5 @@
+#+author: Eklavya Sood
+
+* my personal dwmblocks configuration
+
+- this is a work in progress
